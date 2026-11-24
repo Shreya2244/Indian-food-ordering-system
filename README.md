@@ -120,7 +120,7 @@ Manage products & orders.
 
 ## User Home Page Link : http://127.0.0.1:8000/
 
-<img width="2048" height="2542" alt="Image" src=""C:\Users\shrey\OneDrive\Pictures\Screenshots\Screenshot 2026-11-24 164938.png"" />
+<img width="2048" height="2542" alt="Image" src="C:\Users\shrey\OneDrive\Pictures\Screenshots\Screenshot 2026-11-24 164938.png" />
 
 <img width="2048" height="2516" alt="Image" src="https://github.com/user-attachments/assets/c3467bf7-d759-4764-a9a3-0be4d8f8818c" />
 
